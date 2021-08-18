@@ -1,4 +1,5 @@
-                                                               This is my college project
+                                                       My First Project
+
 ![1](https://user-images.githubusercontent.com/82226121/129931522-dc39f3e9-f5dc-4d5d-bb6a-2d32d68a2af8.png)
 
 ![2](https://user-images.githubusercontent.com/82226121/129931861-e9a9a7ea-9bf1-4708-ac90-1df0cd98c151.png)
